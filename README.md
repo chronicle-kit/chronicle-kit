@@ -12,11 +12,17 @@ Chronicle Kit is an open-source project designed to help individuals document an
 ## **Getting Started**
 Follow these steps to start using Chronicle Kit:
 
-### **1. Fork or Clone the Repository**
-1. Fork this repository to your GitHub account.
+### **1. Create your the Repository**
+1. Create a **private** copy of this repository in your GitHub account.
+   a. Click the `Use this template` button in the top right corner of the repository.
+   b. Select the `Create a new repository` option. Alternatively, you can use this link:
+   https://github.com/new?template_name=chronicle-kit&template_owner=chronicle-kit
+   c. Give the repository a name (for example: `chronicle-kit-my-story`).
+   d. Make sure you select `Private` for the repository visibility.
+   d. Click the `Create repository` button.
 2. Clone your forked repository to your local machine:
    ```bash
-   git clone <your-fork-url>
+   git clone <your-repository-url>
    ```
 
 ### **2. Explore the Folder Structure**
@@ -50,7 +56,7 @@ The repository includes folders for different categories of life stories:
 - Add sensitive files or folders to `.gitignore` to prevent them from being committed.
 
 ### **5. Using Tools to Summarize Your Content**
-- Explore the scripts in the tools folder to summarize your content.
+- Explore the scripts in the chronicle-kit-tools repository to summarize your content.
 
 ## **Example Templates**
 Each folder includes example `.md` files with prompts to help you get started. For instance:
