@@ -7,7 +7,7 @@ Thank you for considering contributing to **Chronicle Kit**! We welcome contribu
 ## How to Contribute
 
 ### 1. Fork the Repository
-1. Navigate to the [Chronicle Kit GitHub repository](https://github.com/LukasGibb/chronicle-kit).
+1. Navigate to the [Chronicle Kit GitHub repository](https://github.com/chronicle-kit/chronicle-kit).
 2. Click the **Fork** button in the top-right corner.
 3. Clone your forked repository:
    ```bash
@@ -70,7 +70,7 @@ Thank you for considering contributing to **Chronicle Kit**! We welcome contribu
 
 ## Need Help?
 If you have any questions or need assistance, feel free to:
-- Open a new [Discussion](https://github.com/LukasGibb/chronicle-kit/discussions).
+- Open a new [Discussion](https://github.com/chronicle-kit/chronicle-kit/discussions).
 - Reach out by creating an issue with the `help wanted` label.
 
 ---
